@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: 20210505_180019.jpg
+    image_darken: 0.25
 hero_media: welcome.jpg
 ---
 <br>
