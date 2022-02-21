@@ -1,7 +1,7 @@
 ---
 title: Cresten Mansfeldt
 role: Assistant Professor of Environmental Engineering
-avatar_filename: crestenmansfeldt-square.png
+avatar_filename: avatar.png
 bio: My research interests include microbial community structure and function,
   wastewater treatment, and microbial risk assessment and source tracking.
 interests: []
@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://github.com/crestenmansfeldt
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Colorado Boulder
+    url: https://www.colorado.edu/even/
 education:
   courses:
     - course: PhD in Environmental Engineering and Environmental Microbiology
