@@ -3,8 +3,7 @@ widget: hero
 widget_id: CMBM-GEM
 headless: true
 weight: 10
-title: Creative Microbial Bio Maintenance for Greener Environments and
-  Municipalities (CMBM-GEM) Laboratories
+title: CMBM-GEM Laboratories
 subtitle: "PI: Cresten Mansfeldt"
 design:
   columns: "1"
