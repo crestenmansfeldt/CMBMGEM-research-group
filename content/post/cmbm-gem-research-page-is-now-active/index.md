@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: CENTER
+  focal_point: SMART
   preview_only: false
 ---
 Much activity to follow!
