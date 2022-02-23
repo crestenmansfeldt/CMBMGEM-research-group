@@ -66,7 +66,7 @@ authors:
   - Kristen Bjorkman
   - admin
 author_notes: []
-publication: "*Water Research, 204*2021"
+publication: "*Water Research, 204* 2021"
 summary: >-
   • Daily medical individual data compared to wastewater SARS-CoV-2
   concentrations.
