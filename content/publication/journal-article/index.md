@@ -89,10 +89,10 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0043135421008083-ga1.jpg
+  filename: featured.jpg
 date: 2022-02-23T21:57:22.038Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
