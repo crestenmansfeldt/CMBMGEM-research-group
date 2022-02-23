@@ -1,68 +1,103 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: To assist in the COVID-19 public health guidance on a college campus,
+  daily composite wastewater samples were withdrawn at 20 manhole locations
+  across the University of Colorado Boulder campus. Low-cost autosamplers were
+  fabricated in-house to enable an economical approach to this distributed
+  study. These sample stations operated from August 25th until November 23rd
+  during the fall 2020 semester, with 1512 samples collected. The concentration
+  of SARS-CoV-2 in each sample was quantified through two comparative reverse
+  transcription quantitative polymerase chain reactions (RT-qPCRs). These
+  methods were distinct in the utilization of technical replicates and
+  normalization to an endogenous control. (1) Higher temporal resolution
+  compensates for supply chain or other constraints that prevent technical or
+  biological replicates. (2) The data normalized by an endogenous control agreed
+  with the raw concentration data, minimizing the utility of normalization. The
+  raw wastewater concentration values reflected SARS-CoV-2 prevalence on campus
+  as detected by clinical services. Overall, combining the low-cost composite
+  sampler with a method that quantifies the SARS-CoV-2 signal within six hours
+  enabled actionable and time-responsive data delivered to key stakeholders.
+  With daily reporting of the findings, wastewater surveillance assisted in
+  decision making during critical phases of the pandemic on campus, from
+  detecting individual cases within populations ranging from 109 to 2048
+  individuals to monitoring the success of on-campus interventions.
+slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+publication_types:
+  - "2"
+authors:
+  - Katelyn Reeves
+  - Jennifer Liebig
+  - Antonio Feula
+  - Tassa Saldi
+  - Erika Lasda
+  - William Johnson
+  - Jacob Lilienfeld
+  - Juniper Maggi
+  - Kevin Pulley
+  - Paul J. Wilkerson
+  - Breanna Real
+  - Gordon Zak
+  - Jack Davis
+  - Morgan Fink
+  - Patrick Gonzales
+  - Cole Hager
+  - Christopher Ozeroff
+  - Kimngan Tat
+  - Michaela Alkire
+  - Claire Butler
+  - Elle Coe
+  - Jessica Darby
+  - Nicholas Freeman
+  - Heidi Heuer
+  - Jeffery R. Jones
+  - Madeline Karr
+  - Sara Key
+  - Kiersten Maxwell
+  - Lauren Nelson
+  - Emily Saldana
+  - Rachel Shea
+  - Lewis Salveson
+  - Kate Tomlinson
+  - Jorge Vargas-Barriga
+  - Bailey Vigil
+  - Gloria Brisson
+  - Roy Parker
+  - Leslie A. Leinwand
+  - Kristen Bjorkman
+  - admin
+author_notes: []
+publication: "*Water Research, 204*2021"
+summary: >-
+  • Daily medical individual data compared to wastewater SARS-CoV-2
+  concentrations.
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+
+  • Design, detail, and implementation of a low-cost composite autosampler.
+
+
+  • Comparison of two RT-qPCR detection approaches.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: High-resolution within-sewer SARS-CoV-2 surveillance facilitates informed
+  intervention
+doi: https://doi.org/10.1016/j.watres.2021.117613
+featured: false
+tags:
+  - Source Themes
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0043135421008083-ga1.jpg
+date: 2022-02-23T21:57:22.038Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
