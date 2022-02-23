@@ -32,7 +32,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 highlight_name: false
 ---
 Cresten Mansfeldt is an assistant professor of environmental engineering at the University of Colorado Boulder in the Department of Civil, Environmental, and Architectural Engineering. His research interests include exploring how microbial communities form structure and function within the built environment, identifying the source and risk of both microbial and chemical contaminants, and developing new treatment and resource capture technologies through applying new molecular and biological techniques.
