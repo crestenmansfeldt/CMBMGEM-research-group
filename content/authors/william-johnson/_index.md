@@ -16,3 +16,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
+William Johnson is a PhD student interested in the microbiology of wastewater as an indicator of community health and as a possible determinant of ecosystem health.
