@@ -3,7 +3,7 @@ title: EcoGenoRisk
 date: 2022-02-21T19:05:35.470Z
 draft: false
 featured: false
-external_link: https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/11176
+link: https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/11176
 image:
   filename: featured.png
   focal_point: SMART
