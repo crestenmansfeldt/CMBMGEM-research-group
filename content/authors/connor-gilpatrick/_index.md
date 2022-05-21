@@ -1,6 +1,6 @@
 ---
 title: Connor Gilpatrick
-role: SPUR Undergratuate Researcher
+role: Undergratuate Researcher
 avatar_filename: avatar.jpeg
 social: []
 superuser: false
