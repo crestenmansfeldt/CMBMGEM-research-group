@@ -1,8 +1,9 @@
 ---
 title: Connor Gilpatrick
-role: Undergratuate Researcher
+role: SPUR Undergraduate Researcher
 avatar_filename: avatar.jpeg
 social: []
 superuser: false
-user_groups: []
+user_groups: 
+  - Undergraduate Students
 ---
