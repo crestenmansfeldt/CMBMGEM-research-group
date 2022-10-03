@@ -1,6 +1,6 @@
 ---
 title: Mackenzie Bowden
-role: Doctoral Researcher
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: ""
 social:
