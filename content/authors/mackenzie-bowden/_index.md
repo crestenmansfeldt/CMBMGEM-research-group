@@ -7,8 +7,8 @@ social:
   - display:
       header: false
     link: linkedin.com/in/mackenzie-bowden-729941a8
-    icon_pack: ai
-    icon: fa-brands fa-linkedin
+    icon_pack: fab
+    icon: linkedin
 superuser: false
 user_groups:
   - Grad Students
