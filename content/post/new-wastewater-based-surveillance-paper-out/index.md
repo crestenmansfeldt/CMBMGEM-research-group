@@ -4,7 +4,7 @@ date: 2022-10-11T19:19:15.258Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 20200720_100041.jpg
   focal_point: Smart
   preview_only: false
 ---
