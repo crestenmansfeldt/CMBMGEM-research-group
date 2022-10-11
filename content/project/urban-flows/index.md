@@ -4,7 +4,6 @@ subtitle: Sewer Mapping Across Colorado
 date: 2022-10-11T19:28:58.358Z
 draft: false
 featured: false
-external_link: https://www.cmbmgem.com/project/urban-flows/
 links: []
 image:
   filename: featured
