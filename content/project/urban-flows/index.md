@@ -4,7 +4,8 @@ subtitle: Sewer Mapping Across Colorado
 date: 2022-10-11T19:28:58.358Z
 draft: false
 featured: false
-external_link: https://www.arcgis.com/home/item.html?id=875865212eb84a77b193c1e5ef418f73
+external_link: https://www.cmbmgem.com/project/urbanflows/
+links: []
 image:
   filename: featured
   focal_point: Smart
