@@ -1,5 +1,5 @@
 ---
-title: Alli Cook
+title: Vanessa Maybruck
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: ""
