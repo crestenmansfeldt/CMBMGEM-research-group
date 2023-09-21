@@ -1,7 +1,7 @@
 ---
 title: Mackenzie Bowden
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 social:
   - display:
