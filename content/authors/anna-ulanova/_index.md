@@ -13,6 +13,6 @@ social:
 email: anna.ulanova@colorado.edu
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 Hello, My name is Anna Ulanova. I'm a recent graduate of the University of Illinois, Urbana-Champaign, receiving a degree in Bioengineering. I have worked with the U.S Army Corps of Engineers, Engineering Research and Development Center for two years. My research heavily focuses on synthetic biology and microbial risk assessment. Additionally, I am interested in evolutionary microbiology and xenobiology.
