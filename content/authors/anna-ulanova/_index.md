@@ -1,8 +1,8 @@
 ---
 title: Anna Ulanova
-role: PhD Student
+role: Masters Student
 avatar_filename: avatar.png
-bio: "Anna Ulanova is a PhD student researching synthetic biology and microbial risk
+bio: "Anna Ulanova is a masters student researching synthetic biology and microbial risk
   assessment."
 social:
   - display:
