@@ -2,7 +2,7 @@
 title: "Passive sampling to scale wastewater surveillance of infectious disease:
   Lessons learned from COVID-19"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Aaron Bivins
   - Devrim Kaya
