@@ -2,7 +2,7 @@
 title: William Johnson
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: "William Johnson is a PhD student interested in the transport of pyrogenic carbon in aquatic systems and its interactions with microbial communities."
+bio: 
 social:
   - display:
       header: false
@@ -14,4 +14,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
-William Johnson is a PhD student interested in the microbiology of wastewater as an indicator of community health and as a possible determinant of ecosystem health.
+William Johnson is a PhD student interested in the transport of pyrogenic carbon in aquatic systems and its interactions with microbial communities.
