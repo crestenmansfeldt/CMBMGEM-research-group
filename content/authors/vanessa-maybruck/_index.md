@@ -8,7 +8,7 @@ social:
       header: false
     link: 
     icon_pack: fab
-    icon: twitter
+    icon: 
 email: 
 superuser: false
 user_groups:

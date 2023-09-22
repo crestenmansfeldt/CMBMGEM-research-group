@@ -6,7 +6,7 @@ bio: ""
 social:
   - display:
       header: false
-    link: linkedin.com/in/mackenzie-bowden-729941a8
+    link: https://www.linkedin.com/in/mackenzie-bowden-729941a8 
     icon_pack: fab
     icon: linkedin
 superuser: false
