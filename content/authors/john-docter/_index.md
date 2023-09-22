@@ -2,7 +2,7 @@
 title: John Docter
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: "Research Interests: Bioinformatics, Synthetic Biology, Bioeconomy."
+bio: 
 social:
   - display:
       header: false
@@ -14,3 +14,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
+Research Interests: Bioinformatics, Synthetic Biology, Bioeconomy.
