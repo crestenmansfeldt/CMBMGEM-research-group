@@ -1,25 +1,29 @@
 ---
-abstract: To assist in the COVID-19 public health guidance on a college campus,
-  daily composite wastewater samples were withdrawn at 20 manhole locations
-  across the University of Colorado Boulder campus. Low-cost autosamplers were
-  fabricated in-house to enable an economical approach to this distributed
-  study. These sample stations operated from August 25th until November 23rd
-  during the fall 2020 semester, with 1512 samples collected. The concentration
-  of SARS-CoV-2 in each sample was quantified through two comparative reverse
-  transcription quantitative polymerase chain reactions (RT-qPCRs). These
-  methods were distinct in the utilization of technical replicates and
-  normalization to an endogenous control. (1) Higher temporal resolution
-  compensates for supply chain or other constraints that prevent technical or
-  biological replicates. (2) The data normalized by an endogenous control agreed
-  with the raw concentration data, minimizing the utility of normalization. The
-  raw wastewater concentration values reflected SARS-CoV-2 prevalence on campus
-  as detected by clinical services. Overall, combining the low-cost composite
-  sampler with a method that quantifies the SARS-CoV-2 signal within six hours
-  enabled actionable and time-responsive data delivered to key stakeholders.
-  With daily reporting of the findings, wastewater surveillance assisted in
-  decision making during critical phases of the pandemic on campus, from
-  detecting individual cases within populations ranging from 109 to 2048
-  individuals to monitoring the success of on-campus interventions.
+abstract: Pathogen surveillance within wastewater rapidly progressed during the
+SARS-CoV-2 pandemic and informed public health management. In addition to the
+successful monitoring of entire sewer catchment basins at the treatment facility
+scale, subcatchment or building-level monitoring enabled targeted support of
+resource deployment. However, optimizing the temporal and spatial resolution of
+these monitoring programs remains complex due to population dynamics and
+within-sewer physical, chemical, and biological processes. To address these
+limitations, this study explores the advancement of the building-scale network
+that monitored the on-campus residential population at the University of
+Colorado Boulder between August 2020 and May 2021 through a daily SARS-CoV-2
+surveillance campaign. During the study period, SARS-CoV-2 infection prevalence
+transitioned from robust community spread in Fall 2020 to sporadic infections in
+Spring 2021. Temporally, these distinct phases enabled investigating the
+effectiveness of resource commitment by exploring subsets of the original daily
+sampling data. Spatially, select sampling sites were installed along the flow
+path of the pipe network, enabling the exploration of the conservation of viral
+concentrations within the wastewater. Infection prevalence and resource
+commitment for informed action displayed an inverted relationship: higher
+temporal and spatial resolution surveillance is more imperative during sporadic
+infection phases than during high prevalence periods. This relationship was
+reinforced when norovirus (two minor clusters) and influenza (primarily absent)
+were additionally surveilled at a weekly frequency. Overall, resource commitment
+should scale to meet the objectives of the monitoring campaign—providing a
+general prevalence estimate requires fewer resources than an early-warning and
+targeted-action monitoring framework.  
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
@@ -66,16 +70,7 @@ authors:
   - Kristen Bjorkman
   - admin
 author_notes: []
-publication: "*Water Research, 204* 2021"
-summary: >-
-  • Daily medical individual data compared to wastewater SARS-CoV-2
-  concentrations.
-
-
-  • Design, detail, and implementation of a low-cost composite autosampler.
-
-
-  • Comparison of two RT-qPCR detection approaches.
+publication: "*FEMS Microbes, Volume 3*, 2022"
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -93,9 +88,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2022-02-23T21:57:22.038Z
+date: 2022-09-24 
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-09-24 
 url_poster: ""
 url_code: ""
 ---
