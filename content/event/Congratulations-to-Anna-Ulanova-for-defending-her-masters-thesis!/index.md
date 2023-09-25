@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Congratulations to Anna Ulanova for Defending Her Masters Thesis!"
+title: "Lab member Anna Ulanova successfully defends Her Master's Thesis!"
 event:
 event_url:
 location:
