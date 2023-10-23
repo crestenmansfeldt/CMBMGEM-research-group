@@ -18,7 +18,7 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-10-28
 # date_end: 2023-09-22T16:32:42-06:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-09-22T16:32:42-06:00
