@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lab Member Vanessa Maybruck Presents at the NSF NRT Annual Meeting at ASU and the CEAS East Campus Open House for CU Boulders Research and Innovation Week"
+title: "Lab Member Vanessa Maybruck Presents at the NSF NRT Annual Meeting at ASU and the CEAS East Campus Open House for CU Boulder's Research and Innovation Week"
 subtitle: ""
 summary: ""
 authors: [Vanessa Maybruck]
