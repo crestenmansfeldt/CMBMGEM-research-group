@@ -9,7 +9,9 @@ social:
     link: https://twitter.com/WaterWithWill
     icon_pack: fab
     icon: twitter
-email: william.johnson-1@colorado.edu
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:william.johnson-1@colorado.edu
 superuser: false
 user_groups:
   - Grad Students
