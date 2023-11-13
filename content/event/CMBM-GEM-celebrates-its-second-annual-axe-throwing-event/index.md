@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CMBM GEM Celebrates Its Second Annual Axe Throwing Event"
+title: "The CMBM-GEM Lab Celebrates Its Second Annual Axe Throwing Event"
 event:
 event_url:
 location:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-11-13
+date: 2023-10-13
 # date_end: 2023-11-13T14:48:52-07:00
 all_day: true
 
