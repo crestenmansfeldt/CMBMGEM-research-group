@@ -10,8 +10,8 @@ design:
   css_style: "text-align: right;"
   css_class: null
   background:
-    image: 20231010_000000.jpg
-    image_darken: 0.5
+    image: featured.webP
+    image_darken: 0.6
     text_color_light: true
 hero_media: welcome.jpg
 ---
