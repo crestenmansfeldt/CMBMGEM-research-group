@@ -9,6 +9,10 @@ social:
     link: https://www.linkedin.com/in/mackenzie-bowden-729941a8 
     icon_pack: fab
     icon: linkedin
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=XukThGkAAAAJ&hl=en
+
 superuser: false
 user_groups:
   - Grad Students
